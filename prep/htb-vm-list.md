@@ -14,7 +14,7 @@ Taken from: [TJNull](https://www.reddit.com/r/oscp/comments/cu6jhb/updated_oscpl
 |[Solidstate](https://www.youtube.com/watch?v=_QapCUx55Xk) medium|[Bounty](https://www.youtube.com/watch?v=7ur4om1K98Y) easy|~~[Lightweight](https://www.youtube.com/watch?v=yQgtDoCDAYk) [Linux]~~ medium|
 |[Kotorak](https://www.youtube.com/watch?v=38e-sxPWiuY) hard|~~[Jerry](https://www.youtube.com/watch?v=PJeBIey8gc4)~~ easy|~~[LaCasaDePapel](https://www.youtube.com/watch?v=OSRCEOQQJ4E) [Linux]~~ easy|
 |[Node](https://www.youtube.com/watch?v=sW10TlZF62w) medium|[Conceal](https://www.youtube.com/watch?v=1ae64CdwLHE) hard||
-|[Valentine](https://www.youtube.com/watch?v=XYXNvemgJUo) easy|||
+|~~[Valentine](https://www.youtube.com/watch?v=XYXNvemgJUo)~~ easy|||
 |~~[Poison](https://www.youtube.com/watch?v=rs4zEwONzzk)~~ medium|||
 |[Sunday](https://www.youtube.com/watch?v=xUrq29OTSuM) easy|||
 |~~[Tartarsauce](https://www.youtube.com/watch?v=9MeBiP637ZA)~~ medium|||
